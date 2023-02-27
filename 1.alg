@@ -1,3 +1,6 @@
+//gabriel
+
+
 algoritmo "semnome"
 //FUP que leia os valores A, B, C e imprima na tela se a soma de A e B é menor que C
 var
